@@ -6,13 +6,17 @@ like a video game controller or a bag of potato chips, or a technology product, 
  For a user to have a good experience, the product needs to be 
  - usable:
      making something easy to use This means that the design, structure, and purpose of the product are clear to everyone.
+     Is everything in the design easy to find? Is the design’s functionality easy to understand?
+     Can users accomplish specific tasks within the design? 
  - equitable: 
     Being equitable means your designs are useful and marketable to people with diverse abilities and backgrounds. 
  - enjoyable
     which creates a positive connection between the user and the product. 
     UX designers foster that positive connection by taking a user's thoughts and feelings into account when making products.
+    Is everything in the design easy to find? Is the design’s functionality easy to understand? Can users accomplish specific tasks within the design? 
  - useful. 
     meaning they solve our problems. 
+    Does the design add value to the user’s experience? Does the design solve a problem for the user? Does the design help the user achieve a specific goal?
 important of UX Design
  - engage more customer
  - build brand or trust
@@ -90,4 +94,155 @@ https://www.coursera.org/learn/foundations-user-experience-design/supplement/01L
 
 Product development lifecycle.
 The product development lifecycle is the process used to take a product from an idea to reality.
+
+- brainstorm. 
+  It's an active discovery stage that's all about generating ideas about the user and potential needs or challenges the user might have.
+  brainstorming stage, the team generates ideas to solve a problem, understands the audience they're designing for, and identifies needs or challenges the audience may have.
+  UX researchers and writers are often heavily involved in this stage,
+
+- define
+  Define is all about using the insights from the brainstorming stage and starting to narrow the focus.
+
+- design stage
+  UX designers begin to actively develop ideas, and they also check that all specifications from the define stage are realistic.
+
+- test stage
+  the team evaluates the product design based on feedback from potential users. Testing designs with users is really important because it helps the team focus on the user first and foremost and the designs second. 
+
+- launch or sharing 
+  a finished version of the product with the public. This might involve listing an app in the Google Play Store or Apple's App Store, making a website go live, or putting a physical product on store shelves.
+
+'The Design of Everyday Things'
+
+https://www.coursera.org/learn/foundations-user-experience-design/supplement/1uCov/review-identify-good-user-experience
+
+ most important tasks entry level UX designers do
+- Researching
+  UX designers use research to understand audiences and learn about their backgrounds, demographics, like age and location, motivations, pain points, emotions, and life goals.
+- wireframing
+   is an outline or a sketch of a product or a screen. It helps a designer figure out how a page is arranged, where each piece of a product fits in with the others, and how users will likely interact with the product. 
+- prototyping
+   is an early model of a product that demonstrates functionality like a wireframe, but a lot more advanced. 
+   a prototype illustrates a progression from one screen to the next.
+- creating information architecture
+   which is the framework of a website or how it's organized, categorized, and structured.
+- communicating effectively. 
+    like meetings with colleagues, writing emails, creating proposals, or pitching clients. 
+The purpose of wireframes and prototypes is to figure out the best design for a product, inexpensively and quickly.
+
+ Roles in ux desinge
+- A generalist: is a UX designer with a broad number of responsibilities. Most UX designers begin their careers this way, doing various tasks.
+  A generalist might be responsible for a combination of user research, branding, user flows, UX writing, visual design, prototyping, production design, 
+  information architecture, and usability testing, among other things.
+
+- A specialist: dives deep into one particular UX design role, like interaction, visual, or motion design. 
+
+- A T-shaped designer: specializes in one kind of UX design and has a breadth of knowledge in other areas. 
+   This is called a T-shaped designer because your skills look like an uppercase T.
+   The vertical line of the T is the kind of UX design you specialize in, like visual design.
+   The horizontal line across the top of the T includes your complementary skills. 
+
+https://www.coursera.org/learn/foundations-user-experience-design/supplement/5O2hO/the-role-of-a-beginner-ux-designer
+ Jobs in UX Design
+- startup: is a new business that wants to develop a unique product or service and bring it to market.
+  Startups generally have tight budgets and few employees. So each person has to perform a variety of jobs and move quickly. 
+
+- Freelancers: work for themselves and market their services to businesses to find customers.
+As a freelancer, you get to pick projects that interest you, make your own schedule, and work with a lot of different brands.
+
+- A design agency: provides a one- stop-shop for the look of brands, products, and services. 
+  They're usually more specialized than ad agencies because they focus on design and branding.
+- Advertising agencies: are teams of creatives hired by clients to build marketing campaigns. 
+
+- UX designer: at a big company, like Google.
+https://www.coursera.org/learn/foundations-user-experience-design/supplement/VZoef/the-influence-of-company-size-and-industry
+
+An internship: is usually a short-term job with limited responsibility
+Apprenticeships: are similar to internships, because you work closely with an experienced professional. 
+pprenticeships are similar to internships, because you work closely with an experienced professional.
+However, apprenticeships generally last longer than internships: around one or two years instead of a few months. 
+And apprenticeships are always paid.
+
+ Entry-level jobs are roles that do not require prior experience in the field. 
+
+Glossary terms from module 1
+Terms and definitions for Course 1, Module 1
+
+Advertising agencies: Teams of creatives hired by clients to build marketing campaigns
+
+Apprenticeships: Provides on-the-job training to help people develop real skills
+
+Assets: Everything from the text and images to the design specifications, like font style, color,
+
+size, and spacing
+
+Design Agency: A one-stop shop for the look of brands, products, and services
+
+Empathy: The ability to understand someone else's feelings or thoughts in a situation
+
+Freelancers: Designers who work for themselves and market their services to businesses to
+
+find customers
+
+Generalist: A UX designer with a broad number of responsibilities
+
+Graphic designers: Create visuals that tell a story or message
+
+Information architecture: The framework of a website or how it’s organized, categorized, and
+
+structured
+
+Interaction designers: Focus on designing the experience of a product and how it functions
+
+Internship: A short term job with limited responsibility 
+
+Motion designers: Think about what it feels like for a user to move through a product
+
+Product: A good, service, or feature
+
+Production designers: Make sure first and final designs match in the finished project
+
+materials and that the assets are ready to be handed off to engineering team
+
+Prototype: An early model of a product that demonstrates functionality
+
+Specialist: A designer who dives deep into one particular type of user experience, like
+
+interaction design, visual design, or motion design
+
+Startup: A new business that wants to develop a unique product or service and bring it to
+
+market
+
+T-shaped designer: A designer who specializes in one kind of user experience (e.g.,
+
+interaction, visual, motion) and has a breadth of knowledge in other areas
+
+UX designers: Focus on how users interact with a product
+
+User experience: How a person, the user, feels about interacting with, or experiencing, a
+
+product
+
+UX engineers: Translate the design’s intent into a functioning experience
+
+UX program managers: Ensure clear and timely communication so that the process of
+
+building a useful product moves smoothly from start to finish
+
+UX research: Understand users and learn about their backgrounds, demographics,
+
+motivations, pain points, emotions, and life goals
+
+UX researchers: A type of researcher that conducts studies or interviews to learn about the
+
+users of a product and how people use a product
+
+UX writers: Create the language that appears throughout a digital product, like websites or
+
+mobile apps
+
+Visual designers: Focus on how the product or technology looks
+
+Wireframe: An outline or a sketch of a product or a screen
 
