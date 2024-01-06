@@ -16,7 +16,7 @@ Plus, the designs need to specifically consider underrepresented and excluded gr
 Equality means providing the same amount of opportunity and support to all segments of society. In other words, everyone gets the same thing.
 Equity means providing different levels of opportunity and support for each person in order to achieve fair outcomes.
 
-A platform is the medium that users experience your product on, such as desktop, mobile web, mobile apps, tablets, wearables, TVs, smart displays, and more. It's important to design with multiple platforms in mind, because users want a product to look and feel similar, no matter what platform they're using.
+A platform is the medium that users experience your product on, such as desktop, mobile web, mobile apps, tablets, wearables, TVs, smart displays, and more. It's important to design with multiple platforms in mind, because users want a product to look and feel similar, no matter what platform they're using.eg Desktop computers,Laptop computers,Mobile phones,Tablets, Wearables, like smart watches, TVs,Smart displays
 
 brand identity: refers to the visual appearance and voice of a company.
 
@@ -27,3 +27,38 @@ Responsive web design allows a website to change automatically, depending on the
 3) use gestures that users already do, like tapping and swiping. Gestures should be intuitive and familiar to users.
 4) design for both directions a phone might be held. We need to consider the vertical portrait view of a mobile phone and the horizontal landscape view. We want users to have an effective experience no matter how they hold their phone. 
 5) reduce visual clutter. Mobile phones have smaller screen sizes. So it's important to keep the visual experience simple.
+
+User-centered design puts the user front and center. Focusing on the user means considering their story, emotions, and the insights you've gathered about them.
+
+To keep our focus on the user, 
+the user-centered design process has four steps: understand, specify, design, and evaluate. 
+ - understand:
+    how the user experiences the product or similar products. Really understanding the end user requires a lot of research, and we'll talk more about 
+    this later. 
+ - specify the end user's needs
+    Based on your research, you'll narrow down which end-user problem is the most important to solve.
+ - design 
+    solutions to the end user's problem. This is where you'll come up with ideas for what the product might look like and actually start building the 
+    product.
+ - evaluate 
+    your design against your end user's needs. Does your design solve the end user's problem? You'll find out here, and you'll also do it by testing 
+    your product with real people. 
+
+assistive technology, or AT for short,
+is used to describe any products, equipment, and systems that enhance learning, working, and daily living for people with disabilities.
+Examples:
+
+Color Modification:
+ high contrast mode or dark mode on a device, increases the contrast of colors on a screen. Black text on a white background, or white text on a dark 
+ background are both examples of high contrast.
+
+A switch is an assistive technology device that replaces the need to use a computer keyboard or a mouse.
+
+Voice Control:
+ Voice control allows users to navigate and interact with the buttons and screens on their devices using only their voice.
+
+Screen reader:
+ Screen readers also read any interactive elements, like buttons, along with non visible text, like the button names, and any alternative text for 
+ images.
+
+Alternative text, or alt text, helps translate a visual user interface into a text-based user interface.
