@@ -1,0 +1,59 @@
+Design thinking framework involves the following phases:
+
+Empathize
+ empathize with people, you try to deeply understand their feelings, thoughts, and experiences on their own terms, without bias or preconceptions. 
+design thinking framework involves the following phases: empathize, define, ideate, prototype, and test.
+   powerful methods for empathizing with users as a UX designer:
+     Interviews 
+      Questionnaires/surveys
+      In-person interviews
+      Phone interviews
+      Video interviews
+     Empathy maps
+      Who exactly are the users and what are their situations?
+      What do users say about their experiences with the product or similar products?
+      What do users think about their experiences?
+      What do users do before, during, and after their experiences?
+      What do users feel about their experiences?
+     User personas
+         Personas are fictional characters who represent groups of similar users. They help designers distill large amounts of user information into 
+           more manageable chunks. 
+Define
+ designers analyze their empathy work to answer this key question: Which of my users’ needs or problems are the most important ones for my design to address? 
+ User stories
+ User journeys
+ Probleme statment
+
+Ideate, 
+ phase is all about getting creative and brainstorming lots of potential solutions. 
+ Rapid sketching
+ competitive audit 
+ Scamper
+ Collaboration
+
+Prototype, 
+ the goal is not to build a final product. Rather, designers produce early models, or prototypes, of the solution so they can see how it will look and function for users. Prototypes also show stakeholders and potential users what the design can do.
+Test.
+ Information architecture
+ Sitemaps
+ Wireframing (paper and digital)
+ Lo-fi prototypes
+ Hi-fi prototypes 
+
+Business goals typically describe:
+ The users they want the design to target
+ The outcomes they want the design to achieve
+ Their vision for the design’s final look and functionality
+
+Business parameters typically describe:
+ The project’s budget, timeline, and scope
+ The specific tools and systems that designers must use or design for
+ The requirements and standards the design must meet
+
+A design sprint is a time-bound process with five phases typically spread out over five full, eight-hour days.
+The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users. 
+
+Design sprints generally include five phases: understand, ideate, decide, prototype, and test.
+ Benefit 
+- save time
+- 
