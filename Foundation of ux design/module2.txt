@@ -1,1 +1,29 @@
 
+Universal design:(one size fits all)
+is the process of creating one product for users with the widest range of abilities and in the widest range of situations.
+
+Inclusive design: (Solve for one extend to many)
+means making design choices that take into account personal identifiers like ability, race, economic status, language, age, and gender. Inclusive design includes researchers and designers from traditionally excluded populations in the process, so they can provide their unique perspectives during all phases of the design process. 
+
+Accessibility:
+Designing products, devices, services, or environments for people with disabilities.
+
+Equity-focused design:
+takes the idea of inclusive design one step further. It asks designers to focus on designing for groups that have been historically underrepresented or ignored when building products.
+ Equity-focused design means thinking through all the aspects of a design product and making sure the product is both accessible and fair to all genders, races, and abilities.
+Plus, the designs need to specifically consider underrepresented and excluded groups.
+
+Equality means providing the same amount of opportunity and support to all segments of society. In other words, everyone gets the same thing.
+Equity means providing different levels of opportunity and support for each person in order to achieve fair outcomes.
+
+A platform is the medium that users experience your product on, such as desktop, mobile web, mobile apps, tablets, wearables, TVs, smart displays, and more. It's important to design with multiple platforms in mind, because users want a product to look and feel similar, no matter what platform they're using.
+
+brand identity: refers to the visual appearance and voice of a company.
+
+Responsive web design allows a website to change automatically, depending on the size of the device. 
+ best practices when designing for mobile-user experiences.
+1) call to action buttons should be placed front and center, allowing the user to easily complete the desired task, like joining an email list or adding an item to their shopping cart. 
+2) navigation menus should be short and simple. We want to simplify the user experience on mobile, so menu options should only highlight the core functions of the product.
+3) use gestures that users already do, like tapping and swiping. Gestures should be intuitive and familiar to users.
+4) design for both directions a phone might be held. We need to consider the vertical portrait view of a mobile phone and the horizontal landscape view. We want users to have an effective experience no matter how they hold their phone. 
+5) reduce visual clutter. Mobile phones have smaller screen sizes. So it's important to keep the visual experience simple.
