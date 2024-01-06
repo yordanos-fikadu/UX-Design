@@ -62,3 +62,5 @@ Screen reader:
  images.
 
 Alternative text, or alt text, helps translate a visual user interface into a text-based user interface.
+
+
