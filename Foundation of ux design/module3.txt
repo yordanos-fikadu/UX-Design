@@ -55,5 +55,40 @@ The goal of design sprints is to solve a critical design challenge through desig
 
 Design sprints generally include five phases: understand, ideate, decide, prototype, and test.
  Benefit 
+- it is all about the user
+- Value every person in the room
+- the best idea rise to top
+- time to focus
+- lowers the risk
+- Versatile schedule
 - save time
-- 
+    With a sprint, your team can cut the decision-making process down from several months to a single week.
+- create an effective path to bring a product to market
+- prioritize the user, putting their needs front and center. 
+- test your product and get customer reactions before making any expensive decisions. 
+
+ Before launching into a design sprint
+Are there many potential solutions to your design challenge?
+Does a design challenge require people from cross-functional teams to weigh in?
+Is the design challenge's scope wide enough for a sprint?
+
+ The design thinking framework:
+Is an overarching framework with five phases: Empathize, Define, Ideate, Prototype, and Test
+Is an overall philosophy for approaching problem solving
+Spans the entire product development process and is open-ended
+Utilizes many different methods and tools
+
+ A design sprint is:
+A time-bound process with five phases: Understand, Ideate, Decide, Prototype, and Test
+A specific implementation plan for solving a specific design challenge
+Strictly timebound from start to finish, typically spread over five full business days
+One method with a defined process 
+
+ Plan design sprints
+user research, schedule talks with experts, find the right space, gather supplies, establish ground rules, break the ice with your team, and plan out post-sprint action items.
+
+The sprint brief is a document that you'll share with all of your attendees to help them prepare for the sprint.
+sprint leader is the person who sends out the brief to the team. But, that's not always the case. 
+
+retrospective is a collaborative critique of the team's design sprint. We usually do retrospective meetings immediately following the sprint so that everyone's thoughts are fresh. Retrospective meetings don't have any particular agenda. The goal is to make sure everyone who took part in the sprint has a chance to give feedback.
+The two key questions we aim to answer in the meeting are, what went well and what can be improved? 
