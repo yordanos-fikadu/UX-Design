@@ -1,0 +1,130 @@
+product development life cycle is the process used to take a product from an idea to reality.
+User research is a continuous part of the product development life cycle and takes place before, during, and after phase 3: Design.
+ foundational research.
+Research that takes place before anything is designed is usually 
+Foundational research answers the question,
+"What should we build?" 
+"What are the user problems?"
+"How can we solve them?"
+The goal of foundational research is to help define the problem you would like to design a solution for.
+
+  design research
+Research that takes place during the design phase, phase 3, of the product development life cycle, is .
+Design research answers the question, 
+"How should we build it?
+ How was your experience using the prototype today?
+ How easy or difficult was it to use? Why? 
+ Did you encounter any challenges?
+The goal of design research is to inform how the product should be built. 
+
+post-launch 
+research only happens at the end of the product development life cycle. 
+Post-launch research can be used to evaluate how well a launch feature is meeting the needs of users.
+Post-launch research answers the question,
+"Did we succeed?" 
+The goal of post-launch research is to understand how users experienced the product and whether it was a good or poor user experience.
+
+Qualities of a good UX researcher include empathy, pragmatism, and collaboration.
+ Empathy is the ability to understand someone else's feelings or thoughts in a situation.
+ Pragmatism is a practical approach to problem-solving. Pragmatic people are focused on reaching goals.
+ Collaboration is the ability to work with a range of people, personalities, and work styles.
+
+https://www.coursera.org/learn/foundations-user-experience-design/supplement/2oADC/learn-more-about-ux-research
+
+The term methods refers to how you get the research done. 
+There are two ways we categorize research methods. 
+The first way is based on who conducts the research.
+The second way is based on the type of data collected. 
+ Primary research is research you conduct yourself.
+ Secondary research is research that uses information someone else has put together.
+Data can be collected through qualitative or quantitative research.
+Quantitative research focuses on data that can be gathered by counting or measuring.often based on surveys of large groups of people using numerical answers. 
+Qualitative research is often based on interviews, where we focus on a smaller number of users and understand their needs in greater detail.
+
+ Interviews are research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings.
+ Surveys are an activity where many people are asked the same questions in order to understand what most people think about a product. 
+
+ Usability studies are a technique that help us evaluate a product by testing it on users. 
+ The goal of a usability study is to identify pain points that the user experiences with different prototypes,
+ so the issues can be fixed before the final product launches. 
+  post-launch usability study might include data like success metrics and key performance indicators, which are commonly known as KPIs.
+  Key performance indicators are critical measures of progress toward an end goal. 
+
+ Secondary research benefits
+- save time and money
+- immediately accessible
+- backs up primary research
+ Drawback
+- no first hand user interaction
+- no specific user feedback
+ Interview
+  benefit
+ - understand what user think and why
+ - ask follow up quations
+  drawback
+ - take time and money
+ - small sample size
+ 
+  Survay
+ benefit
+- large sample size
+- fast 
+- inexpensive
+ drawback
+- no in-depth feedback
+ Usablity study
+  benefit
+- firsthand user interaction
+- challenges our assumption
+- in-depth feeedback
+  drawback
+- only measure how easy a products is to use
+- expensive
+- difference in lab use versus in real life
+
+https://www.coursera.org/learn/foundations-user-experience-design/supplement/Rm7m2/learn-more-about-research-methods
+
+a bias is favoring or having prejudice against something based on limited information. 
+
+ confirmation bias. 
+This bias occurs when you start looking for evidence to prove a hypothesis you have.
+ overcoming confirmation bias
+during research is to ask open-ended questions when conducting interviews. 
+ An open-ended question lets the person being interviewed answer freely, instead of with a yes or no. 
+Actively listen
+include a large sample of user
+
+ false consensus bias, 
+which is the assumption that others will think the same way as you do
+happens when we overestimate the number of people who will agree with our idea or design, which creates a false consensus. 
+  avoid false consensus bias by 
+identifying and articulating your own assumptions.
+survey large groups of people.
+
+ recency bias. 
+it's easiest to remember the last thing you heard in an interview, conversation, or similar setting, because it's the most recent.
+To overcome the recency bias, you can take detailed notes or recordings for each interview or conversation you have.
+
+ primacy bias, 
+where you remember the first participant most strongly.
+
+ overcome the recency bias and primary 
+take detailed notes or recordings for each interview or conversation you have. 
+take detailed notes or recordings, 
+interview each participant in the same way. 
+
+ implicit /unconscious bias
+is a collection of attitudes and stereotypes we associate to people without our conscious knowledge. 
+One of the most common forms of implicit bias in UX is when we only interview people within a limited set of identity profiles, such as race, age, 
+gender, socioeconomic status, and ability. 
+ To overcome our biases, 
+we can reflect on our behaviors, and we can ask others to point our implicit biases.
+
+ sunk cost fallacy. 
+This is the idea that the deeper we get into a project we've invested in, the harder it is to change course without feeling like we've failed or
+wasted time. The phrase "sunk cost" refers to the time we've already spent or sunk into a project or activity.
+ To avoid the sunk cost fallacy,
+break down your project into smaller phases, and then outline designated points where you can decide whether to continue or stop. 
+
+
+
